@@ -11,7 +11,7 @@ configure_requires:
   ExtUtils::MakeMaker: '0'
 dynamic_config: 1
 generated_by: 'ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.141170'
-license: perl
+license: artistic_2
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: '1.4'
@@ -28,4 +28,4 @@ requires:
   warnings: '0'
 resources:
   repository: git://github.com/neilbowers/Test-Pod-Coverage.git
-version: 1.09_01
+version: '1.10'
